@@ -9,7 +9,7 @@
   Location: Minsk, Belarus
 </h2>
 <h2>
-  Interests: web development, bots, data scraping, automatization
+  Interests: bots, data scraping, automatization, web development
 </h2>
 <h2>
   Telegram: https://t.me/ggrablevski
