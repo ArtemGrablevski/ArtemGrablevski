@@ -1,4 +1,4 @@
-## Artem Grablevski. Telegram: @ggrablevski
+## Artem Grablevski.
 
 ```json
 {
