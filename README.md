@@ -2,8 +2,8 @@
 
 
 
-```python
-info = {
+```json
+{
     "name": "Artem Grablevski",
     "ask_me_about": [
         "web dev", "Telegram bots", "data scraping & automation" 
