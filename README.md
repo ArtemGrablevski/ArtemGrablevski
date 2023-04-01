@@ -2,7 +2,6 @@
 
 ```json
 {
-    "current_position": "freelance",
     "ask_me_about": [
         "web dev", "Telegram bots", "data scraping & automation" 
     ],
