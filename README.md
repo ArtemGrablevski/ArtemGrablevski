@@ -26,7 +26,7 @@
             "Aiogram", "Telebot"
         ],
         "data scraping & automation": [
-            "Selenium", "beautifulsoup4", "aiohttp"
+            "Selenium", "BeautifulSoup4", "Aiohttp"
         ]
     }
 }
