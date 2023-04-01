@@ -25,6 +25,7 @@
         "data scraping & automation": [
             "Selenium", "BeautifulSoup4", "Aiohttp"
         ]
-    }
+    },
+    "current_position": "freelance"
 }
 ```
