@@ -2,6 +2,7 @@
 
 ```json
 {
+    "current_position": "freelance",
     "ask_me_about": [
         "web dev", "Telegram bots", "data scraping & automation" 
     ],
@@ -25,7 +26,6 @@
         "data scraping & automation": [
             "Selenium", "BeautifulSoup4", "Aiohttp"
         ]
-    },
-    "current_position": "freelance"
+    }
 }
 ```
