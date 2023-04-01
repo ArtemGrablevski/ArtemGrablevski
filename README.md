@@ -1,10 +1,7 @@
-## Artem Grablevski. Python/JavaScript developer.
-
-
+## Artem Grablevski. Telegram: @ggrablevski
 
 ```json
 {
-    "name": "Artem Grablevski",
     "ask_me_about": [
         "web dev", "Telegram bots", "data scraping & automation" 
     ],
