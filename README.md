@@ -1,6 +1,33 @@
 ## Artem Grablevski. Python/JavaScript developer.
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+```python
+info = {
+    "name": "Artem Grablevski",
+    "ask_me_about": [
+        "web dev", "Telegram bots", "data scraping & automation" 
+    ],
+    "programming_languages": [
+        "Python", "JavaScript", "SQL", "C++"
+    ],
+    "technologies": {
+        "backend": [
+            "Python", "FastAPI", "Flask"
+        ],
+        "frontend": [
+            "JavaScript", "React", "HTML", "CSS", "Bootstrap"
+        ],
+        "databases": [
+            "PostgreSQL", "MySQL", "Redis", "SQlite" 
+        ]
+        ,
+        "Telegram bots": [
+            "Aiogram", "Telebot"
+        ],
+        "data scraping & automation": [
+            "Selenium", "beautifulsoup4", "aiohttp"
+        ]
+    }
+}
+```
