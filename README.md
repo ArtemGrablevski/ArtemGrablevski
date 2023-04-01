@@ -17,8 +17,7 @@
         ],
         "databases": [
             "PostgreSQL", "MySQL", "Redis", "SQlite" 
-        ]
-        ,
+        ],
         "Telegram bots": [
             "Aiogram", "Telebot"
         ],
