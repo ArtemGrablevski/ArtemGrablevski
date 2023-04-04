@@ -2,7 +2,7 @@
 
 ```json
 {
-    "ask_me_about": [
+    "specialization": [
         "web dev", "Telegram bots", "data scraping & automation" 
     ],
     "programming_languages": [
