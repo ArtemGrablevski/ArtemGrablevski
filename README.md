@@ -5,9 +5,6 @@
 - Telegram bots
 - Data scraping & automation
 ---
-## :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Artem_Grablevski-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ggrablevski)
-
----
 
 ### 💻 Technologies I use:
 
