@@ -1,6 +1,6 @@
-## Hey, I'm Artem Grablevski!
+## 👋 Hey, I'm Artem Grablevski!
 ---
-## My interests:
+## 🔥My interests:
 - backend & frontend development
 - Telegram bots
 - Data scraping & automation
