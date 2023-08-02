@@ -6,7 +6,7 @@
 ## 💻 Tech stack:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css" />
   </a>
 </p>
 <p>
