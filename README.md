@@ -16,7 +16,7 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mongo,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mongo,rabbitmq,kafka" />
   </a>
 </p>
 <p>
