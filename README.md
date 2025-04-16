@@ -1,8 +1,4 @@
 ## 👋 Hey, I'm Artem Grablevski!
-## 🔥My interests:
-- Backend & frontend development
-- Telegram bots
-- Data scraping & automation
 ## 💻 Tech stack:
 <p>
   <a href="https://skillicons.dev">
